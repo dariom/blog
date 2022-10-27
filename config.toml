@@ -2,7 +2,6 @@ baseURL = 'http://example.org/'
 title = 'My New Hugo Site'
 
 theme = "puppet"
-themesDir = "../.."
 
 copyright = ""
 paginate = 3
