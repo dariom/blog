@@ -1,5 +1,5 @@
 baseURL = 'http://example.org/'
-title = 'My New Hugo Site'
+title = 'Notes to Self'
 
 theme = "puppet"
 
@@ -68,8 +68,8 @@ weight = 100
 
 
 [params]
-author = "Puppet"
-description = "A simple and clean theme for Hugo"
+author = "Dario"
+description = "A blog about software development, technology and other things I do, enjoy and find interesting"
 keywords = "blog,developer,personal"
 img_home = "img/home-bg.jpg"
 img_404 = "img/404-bg.jpg"
@@ -86,12 +86,9 @@ bio = "a personal website"
 
 [params.social]
 rss_enable = true
-twitter = "johndoe"
-facebook = "johndoe"
-zhihu = "johndoe"
-weibo = "johndoe"
-github = "johndoe"
-linkedin = "johndoe"
+twitter = "dmratovich"
+github = "dariom"
+linkedin = "dariomratovich"
 
 [[params.friends]]
 name = "John Doe"
